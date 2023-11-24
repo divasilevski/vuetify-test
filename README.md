@@ -1,4 +1,4 @@
-# Nuxt 3 + Vuetify 3 Starter ?
+# Nuxt 3 + Vuetify 3 Starter ??
 
 ![Starter Image](/public/starter.png)
 Nuxt 3 is now stable. Vuetify 3 is now stable. I will be updating this template as we go along. Feel free to open an issue if you have any questions or suggestions.
